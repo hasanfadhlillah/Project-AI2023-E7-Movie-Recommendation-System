@@ -1,5 +1,2 @@
-### dependency
 streamlit
-
-### local packages -
--e . 
+-e .
