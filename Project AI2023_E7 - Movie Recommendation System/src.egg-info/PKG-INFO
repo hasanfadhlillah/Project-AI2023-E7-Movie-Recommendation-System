@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/AI2023_E7/CINFEY: Movie Recommender System
+Author: AI2023_E7
+Author-email: entbappy73@gmail.com
+License: MIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
